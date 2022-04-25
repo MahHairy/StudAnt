@@ -1,0 +1,283 @@
+.login92-container {
+  min-height: 100vh;
+}
+.login92-login92 {
+  width: 428px;
+  height: 926px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 428px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 75px;
+  background-color: rgba(251, 99, 118, 1);
+}
+.login92-svg {
+  top: -28px;
+  left: 51px;
+  width: 215;
+  height: 223;
+  position: absolute;
+}
+.login92-image {
+  top: 200px;
+  left: 22px;
+  width: 383px;
+  height: 564px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(71, 128, 43, 1) ;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 50px;
+  background-color: rgba(252, 177, 166, 0.7300000190734863);
+}
+.login92-svg1 {
+  top: -35px;
+  left: 202px;
+  width: 297;
+  height: 299;
+  position: absolute;
+}
+.login92-image1 {
+  top: 277px;
+  left: 152px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  object-fit: cover;
+  border-color: transparent;
+}
+.login92-image2 {
+  top: 440px;
+  left: 52px;
+  width: 314px;
+  height: 50px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(93, 42, 66, 1) ;
+  object-fit: cover;
+  border-color: rgba(93, 42, 66, 1);
+  border-style: solid;
+  border-width: 4px;
+  border-radius: 50px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.login92-image3 {
+  top: 547px;
+  left: 54px;
+  width: 312px;
+  height: 53px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(93, 42, 66, 1) ;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 50px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.login92-text {
+  top: 217px;
+  left: 171px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login92-image4 {
+  top: 407px;
+  left: 211px;
+  width: 25px;
+  height: 20px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.login92-text01 {
+  top: 401px;
+  left: 69px;
+  color: rgba(255, 255, 255, 1);
+  width: 165px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login92-image5 {
+  top: 517px;
+  left: 204px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.login92-text02 {
+  top: 510px;
+  left: 69px;
+  color: rgba(255, 255, 255, 1);
+  width: 157px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login92-image6 {
+  top: 617px;
+  left: 127px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.login92-text03 {
+  top: 610px;
+  left: 158px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login92-group1921 {
+  top: 653px;
+  left: 142px;
+  width: 120px;
+  height: 49px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(93, 42, 66, 1) ;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(93, 42, 66, 1);
+}
+.login92-text04 {
+  top: 7px;
+  left: 21px;
+  color: rgba(255, 255, 255, 1);
+  width: 87px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login92-text05 {
+  top: 714px;
+  left: 92px;
+  color: rgba(93, 42, 66, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login92-text06 {
+  top: 826px;
+  left: 57px;
+  color: rgba(255, 255, 255, 1);
+  width: 334px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login92-text07 {
+  color: rgba(255, 255, 255, 1);
+  width: 334px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login92-text08 {
+  color: rgba(93, 42, 66, 1);
+  width: 334px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login92-text09 {
+  top: 76px;
+  left: 69px;
+  color: rgba(255, 255, 255, 1);
+  width: 183px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login92-image7 {
+  top: 75px;
+  left: 256px;
+  width: 67px;
+  height: 54px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
